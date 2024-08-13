@@ -6,6 +6,9 @@
 
 # Health Management App
 
+![200w](https://github.com/user-attachments/assets/829da11e-d9c0-48b7-a164-ee2b844763af)
+
+
 The Health Management App is a Streamlit-based application that integrates the Google Gemini Pro Vision API to analyze images of food and calculate the total calorie content. This application allows users to upload food images, upon which it provides detailed nutritional information, including calorie counts for each food item.
 
 
